@@ -10,6 +10,8 @@ node_modules/
 __pycache__/
 
 # Ignore specific Python pickle file (model data)
+node_modules/
+*.pickle.dat
 PhishingWebsite_model.pickle.dat
 
 # Ignore any other binary files that are not part of the source code
