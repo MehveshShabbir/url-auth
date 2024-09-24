@@ -1,0 +1,4 @@
+flask
+flask-cors
+joblib
+scikit-learn   # might be required for the model
