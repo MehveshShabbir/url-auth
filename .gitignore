@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/.venv
 /.pnp
 .pnp.js
 
@@ -23,6 +24,7 @@ yarn-debug.log*
 yarn-error.log*
 
 node_modules/
+.venv/
 *.pickle.dat
 PhishingWebsite_model.pickle.dat
 
