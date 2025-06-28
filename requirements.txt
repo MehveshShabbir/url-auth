@@ -1,4 +1,8 @@
 flask
 flask-cors
 joblib
-scikit-learn   # might be required for the model
+scikit-learn
+xgboost
+beautifulsoup4
+python-whois
+requests
